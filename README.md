@@ -1,3 +1,9 @@
+###Overview
+This is a fork of rdpeng/ProgrammingAssignment2.
+It contains my completed Programming Assignment2 for the 
+R-Programming Coursera course.
+
+
 ### Introduction
 
 This second programming assignment will require you to write an R
