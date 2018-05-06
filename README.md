@@ -1,11 +1,10 @@
-###Overview
+### Introduction
+
 This is a fork of rdpeng/ProgrammingAssignment2.
 It contains my completed Programming Assignment2 for the 
 R-Programming Coursera course.
 
-
-### Introduction
-
+(original notes for rdpeng)
 This second programming assignment will require you to write an R
 function that is able to cache potentially time-consuming computations.
 For example, taking the mean of a numeric vector is typically a fast
